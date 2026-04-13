@@ -1,0 +1,11 @@
+# Ignore build artifacts
+dist/
+build/
+coverage/
+
+# Ignore third-party code
+node_modules/
+
+# Ignore specific files
+generated-schema.js
+vendor/legacy-script.js
